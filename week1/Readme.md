@@ -1,5 +1,6 @@
 지식융합디자인스튜디오
 월,수 11시~12시15분 -> 월 : 11시 ~ 1시
+
 강의 중 나온 BMW 영상 : https://youtu.be/ODCvHh0HtqY
 "the future is electric"
 
