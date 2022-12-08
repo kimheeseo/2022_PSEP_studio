@@ -7,3 +7,4 @@ user journey map(2022.12.08)
 
 # 감정이입지도(empathy map
 - https://thod.tistory.com/entry/Empathy-Map-%EA%B0%90%EC%A0%95%EC%9D%B4%EC%9E%85-%EB%A7%B5
+- https://www.nngroup.com/articles/empathy-mapping/
